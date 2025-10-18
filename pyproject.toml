@@ -13,7 +13,8 @@ dependencies = [
   "seaborn",
   "matplotlib",
   "catboost",
-  "xgboost"
+  "xgboost",
+  "dill"
 ]
 
 [tool.setuptools.packages.find]
