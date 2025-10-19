@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Folders
+artifacts/
+catboost_info/
+
 # Distribution / packaging
 .Python
 build/
@@ -143,6 +147,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
 
 # Spyder project settings
 .spyderproject
